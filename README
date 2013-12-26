@@ -1,0 +1,1 @@
+This akinator class is capable of being modified to run the classic akinator game in which a series of questions are asked in order to guess a character using basic artificial intelligence. It is implemented here using a binary descicion tree. It can be modified to be used with various topics by changing the tree constructed using the driver.
