@@ -13,5 +13,6 @@ int main(){
   ak.insert(false,"Does this person go to college?","Arielle","Aurora");
   ak.insert(false,"Does this person have children?","Stacey","Does this person go to college?");
   ak.insert(false,"Is this person male?","Does this person have brown hair?","Does this person have children?");
+  ak.set_root("Is this person male?");
   ak.traverse();
 }
