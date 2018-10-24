@@ -6,3 +6,5 @@ Akinator.o: Akinator.cpp
 	g++ -std=c++11 -c Akinator.cpp
 clean:
 	rm -rf *o akinator
+
+end
