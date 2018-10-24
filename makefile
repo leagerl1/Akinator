@@ -7,4 +7,4 @@ Akinator.o: Akinator.cpp
 clean:
 	rm -rf *o akinator
 
--end-
+end
